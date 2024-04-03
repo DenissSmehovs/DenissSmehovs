@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Deniss and I'm a a software developer, from Latvia</h2>
+<h2 align="left">Hi 👋! My name is Deniss and I'm a software developer, from Latvia</h2>
 
 ###
 
@@ -9,13 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTEwYTBmMTdjcGZhNG4xOWpyc2VhZnRnZ3hpcGJqbTZ3ZHVhejhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif"  />
-
-###
-
-🧰 <h2 align="left">Technologies</h2>
+ <h2 align="left">🧰Technologies</h2>
 
 <div align="left">
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTEwYTBmMTdjcGZhNG4xOWpyc2VhZnRnZ3hpcGJqbTZ3ZHVhejhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -29,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
@@ -37,8 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-###
-🏃‍♂️ <h2 align="left">Follow Me</h2>
+<br>
+<br>
+
+ <h2 align="left">🏃‍♂️Follow Me</h2>
 
 <div align="left">
   <a href="https://discordapp.com/users/311095720293826563" target="_blank">
@@ -52,6 +53,5 @@
   </a>
 </div>
 
+###
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/DenissSmehovs/DenissSmehovs/output/snake.svg" alt="Snake animation" />
