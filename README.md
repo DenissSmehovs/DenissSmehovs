@@ -13,7 +13,7 @@
 
 ###
 
-🧰 Technologies
+🧰 <h2 align="left">Technologies</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -38,7 +38,7 @@
 </div>
 
 ###
-🏃‍♂️ Follow Me
+🏃‍♂️ <h2 align="left">Follow Me</h2>
 
 <div align="left">
   <a href="https://discordapp.com/users/311095720293826563" target="_blank">
@@ -52,11 +52,6 @@
   </a>
 </div>
 
-###
-test
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DenissSmehovs/DenissSmehovs/output/snake.svg" alt="Snake animation" />
-
-###
