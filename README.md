@@ -12,7 +12,7 @@
  <h2 align="left">🧰Technologies</h2>
 
 <div align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTEwYTBmMTdjcGZhNG4xOWpyc2VhZnRnZ3hpcGJqbTZ3ZHVhejhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif"  />
+  <img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTEwYTBmMTdjcGZhNG4xOWpyc2VhZnRnZ3hpcGJqbTZ3ZHVhejhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,4 +54,4 @@
 </div>
 
 ###
-<br clear="both">
+<h2 align="center" class="heading-element" dir="auto">💻 Check Out My Repos ⬇️ </h2>
